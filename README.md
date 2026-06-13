@@ -1,4 +1,4 @@
-# Custom Relational Database Engine 🚀
+# Custom Relational Database Engine 
 
 A lightweight, crash-safe relational database engine built entirely from scratch in C++17. This project was developed to explore the low-level systems architecture of modern databases like PostgreSQL and SQLite.
 
