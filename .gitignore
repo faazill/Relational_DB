@@ -1,0 +1,13 @@
+interview_questions.md
+
+# Build
+build/
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Makefile
+cmake_install.cmake
+compile_commands.json
+
+# macOS
+.DS_Store
